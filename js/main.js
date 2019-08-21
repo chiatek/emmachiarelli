@@ -1,12 +1,4 @@
-﻿/*
-	Name: main.js
-	Date: September 19, 2016
-	Description: EmmaChiarelli javascript source.
-	Author: Steve Chiarelli
-	Author URL: https://www.chiatek.com
-*/
-
-
+﻿
 $(function () {
     "use strict";
 
